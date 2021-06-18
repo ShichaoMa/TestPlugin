@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.shichaoma.testplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.shichaoma.testplugin.MyBundle
 
 class MyApplicationService {
 
